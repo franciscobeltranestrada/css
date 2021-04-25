@@ -1,0 +1,49 @@
+body {
+  background-color: #0b1022;
+}
+h1 {
+  color: red;
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: gray;
+  width: 1000px;
+  border-radius: 20px;
+}
+h2 {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  background-color: gray;
+  width: 1000px;
+  padding: 40px;
+  border-radius: 20px;
+}
+p {
+  font-size: 20px;
+  color: red;
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: gray;
+  width: 1000px;
+  border-radius: 20px;
+}
+nav li {
+  color: red;
+  display: inline-block;
+  margin: 10px;
+  background-color: yellow;
+  border-radius: 5px;
+}
+img {
+  height: 170px;
+  width: 300px;
+  float: bottom;
+}
+button {
+  border-radius: 1px;
+}
+textarea {
+  border-radius: 10px;
+}
