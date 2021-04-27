@@ -1,0 +1,633 @@
+div{
+    width: 76px;
+    height: 76px;
+    text-align: center;
+    color: #3413a2;
+    font-family: sans-serif;
+}
+
+.número{
+    font-size: 15px;
+    line-height: 1px;
+    color: #000000;
+}
+
+.símbolo{
+    font-size: 20px;
+    line-height: 1px;
+}
+
+.peso{
+    font-size: 15px;
+    line-height: 1px;
+    color: #000000;
+}
+
+.grupo1{
+    background: #689bff;
+}
+
+#h{
+    position: absolute;
+    top: 80px; left: 80px;
+}
+
+#li{
+    position: absolute;
+    top: 160px; left:80px;
+}   
+
+#na{
+    position: absolute;
+    top: 240px; left: 80px;
+}
+
+#k{
+    position: absolute;
+    top: 320px; left: 80px;
+}
+
+#rb{
+    position: absolute;
+    top: 400px; left: 80px;
+}
+
+#cs{
+    position: absolute;
+    top: 480px; left: 80px;
+}
+
+#fr{
+    position: absolute;
+    top: 560px; left: 80px;
+}
+
+#be{
+    position: absolute;
+    top: 160px; left: 160px;
+}
+
+#mg{
+    position: absolute;
+    top: 240px; left: 160px;
+}
+
+#ca{
+    position: absolute;
+    top: 320px; left: 160px;
+}
+
+#sr{
+    position: absolute;
+    top: 400px; left: 160px;
+}
+
+#ba{
+    position: absolute;
+    top: 480px; left: 160px;
+}
+
+#ra{
+    position: absolute;
+    top: 560px; left: 160px;
+}
+
+.grupo2{
+    background: #fd9a98;
+}
+
+#sc{
+    position: absolute;
+    top: 320px; left: 260px;
+}
+
+#y{
+    position: absolute;
+    top: 400px; left: 260px;
+}
+
+#lu{
+    position: absolute;
+    top: 480px; left: 260px;
+}
+
+#lr{
+    position: absolute;
+    top: 560px; left: 260px;
+}
+
+#ti{
+    position: absolute;
+    top: 320px; left: 340px;
+}
+
+#zr{
+    position: absolute;
+    top: 400px; left: 340px;
+}
+
+#hf{
+    position: absolute;
+    top: 480px; left: 340px;
+}
+
+#rf{
+    position: absolute;
+    top: 560px; left: 340px;
+}
+
+#v{
+    position: absolute;
+    top: 320px; left: 420px;
+}
+
+#nb{
+    position: absolute;
+    top: 400px; left: 420px;
+}
+
+#ta{
+    position: absolute;
+    top: 480px; left: 420px;
+}
+
+#db{
+    position: absolute;
+    top: 560px; left: 420px;
+}
+
+#cr{
+    position: absolute;
+    top: 320px; left: 500px;
+}
+
+#mo{
+    position: absolute;
+    top: 400px; left: 500px;
+}
+
+#w{
+    position: absolute;
+    top: 480px; left: 500px;
+}
+
+#sg{
+    position: absolute;
+    top: 560px; left: 500px;
+}
+
+#mn{
+    position: absolute;
+    top: 320px; left: 580px;
+}
+
+#tc{
+    position: absolute;
+    top: 400px; left: 580px;
+}
+
+#re{
+    position: absolute;
+    top: 480px; left: 580px;
+}
+
+#bh{
+    position: absolute;
+    top: 560px; left: 580px;
+}
+
+#fe{
+    position: absolute;
+    top: 320px; left: 660px;
+}
+
+#ru{
+    position: absolute;
+    top: 400px; left: 660px;
+}
+
+#os{
+    position: absolute;
+    top: 480px; left: 660px;
+}
+
+#hs{
+    position: absolute;
+    top: 560px; left: 660px;
+}
+
+#co{
+    position: absolute;
+    top: 320px; left: 740px;
+}
+
+#rh{
+    position: absolute;
+    top: 400px; left: 740px;
+}
+
+#ir{
+    position: absolute;
+    top: 480px; left: 740px;
+}
+
+#mt{
+    position: absolute;
+    top: 560px; left: 740px;
+}
+
+#ni{
+    position: absolute;
+    top: 320px; left: 820px;
+}
+
+#pd{
+    position: absolute;
+    top: 400px; left: 820px;
+}
+
+#pt{
+    position: absolute;
+    top: 480px; left: 820px;
+}
+
+#ds{
+    position: absolute;
+    top: 560px; left: 820px;
+}
+
+#cu{
+    position: absolute;
+    top: 320px; left: 900px;
+}
+
+#ag{
+    position: absolute;
+    top: 400px; left: 900px;
+}
+
+#au{
+    position: absolute;
+    top: 480px; left: 900px;
+}
+
+#rg{
+    position: absolute;
+    top: 560px; left: 900px;
+}
+
+#zn{
+    position: absolute;
+    top: 320px; left: 980px;
+}
+
+#cd{
+    position: absolute;
+    top: 400px; left: 980px;
+}
+
+#hg{
+    position: absolute;
+    top: 480px; left: 980px;
+}
+
+#cn{
+    position: absolute;
+    top: 560px; left: 980px;
+}
+
+.grupo3{
+    background: #fecb00;
+}
+
+#b{
+    position: absolute;
+    top: 160px; left: 1060px;
+}
+
+#al{
+    position: absolute;
+    top: 240px; left: 1060px;
+}
+
+#ga{
+    position: absolute;
+    top: 320px; left: 1060px;
+}
+
+#in{
+    position: absolute;
+    top: 400px; left: 1060px;
+}
+
+#tl{
+    position: absolute;
+    top: 480px; left: 1060px;
+}
+
+#uut{
+    position: absolute;
+    top: 560px; left: 1060px;
+}
+
+#c{
+    position: absolute;
+    top: 160px; left: 1140px;
+}
+
+#si{
+    position: absolute;
+    top: 240px; left: 1140px;
+}
+
+#ge{
+    position: absolute;
+    top: 320px; left: 1140px;
+}
+
+#sn{
+    position: absolute;
+    top: 400px; left: 1140px;
+}
+
+#pb{
+    position: absolute;
+    top: 480px; left: 1140px;
+}
+
+#fl{
+    position: absolute;
+    top: 560px; left: 1140px;
+}
+
+#n{
+    position: absolute;
+    top: 160px; left: 1220px;
+}
+
+#p{
+    position: absolute;
+    top: 240px; left: 1220px;
+}
+
+#as{
+    position: absolute;
+    top: 320px; left: 1220px;
+}
+
+#sb{
+    position: absolute;
+    top: 400px; left: 1220px;
+}
+
+#bi{
+    position: absolute;
+    top: 480px; left: 1220px;
+}
+
+#uup{
+    position: absolute;
+    top: 560px; left: 1220px;
+}
+
+#o{
+    position: absolute;
+    top: 160px; left: 1300px;
+}
+
+#s{
+    position: absolute;
+    top: 240px; left: 1300px;
+}
+
+#se{
+    position: absolute;
+    top: 320px; left: 1300px;
+}
+
+#te{
+    position: absolute;
+    top: 400px; left: 1300px;
+}
+
+#po{
+    position: absolute;
+    top: 480px; left: 1300px;
+}
+
+#lv{
+    position: absolute;
+    top: 560px; left: 1300px;
+}
+
+#f{
+    position: absolute;
+    top: 160px; left: 1380px;
+}
+
+#cl{
+    position: absolute;
+    top: 240px; left: 1380px;
+}
+
+#br{
+    position: absolute;
+    top: 320px; left: 1380px;
+}
+
+#i{
+    position: absolute;
+    top: 400px; left: 1380px;
+}
+
+#at{
+    position: absolute;
+    top: 480px; left: 1380px;
+}
+
+#uus{
+    position: absolute;
+    top: 560px; left: 1380px;
+}
+
+#he{
+    position: absolute;
+    top: 80px; left: 1460px;
+}
+
+#ne{
+    position: absolute;
+    top: 160px; left: 1460px;
+}
+
+#ar{
+    position: absolute;
+    top: 240px; left: 1460px;
+}
+
+
+#kr{
+    position: absolute;
+    top: 320px; left: 1460px;
+}
+
+#xe{
+    position: absolute;
+    top: 400px; left: 1460px;
+}
+
+#rn{
+    position: absolute;
+    top: 480px; left: 1460px;
+}
+
+#uuo{
+    position: absolute;
+    top: 560px; left: 1460px;
+}
+
+.grupo4{
+    background: #1fca21;
+}
+
+#la{
+    position: absolute;
+    top: 670px; left: 260px;
+}
+
+#ac{
+    position: absolute;
+    top: 750px; left: 260px;
+}
+
+#ce{
+    position: absolute;
+    top: 670px; left: 340px;
+}
+
+#th{
+    position: absolute;
+    top: 750px; left: 340px;
+}
+
+#pr{
+    position: absolute;
+    top: 670px; left: 420px;
+}
+
+#pa{
+    position: absolute;
+    top: 750px; left: 420px;
+}
+
+#nd{
+    position: absolute;
+    top: 670px; left: 500px;
+}
+
+#u{
+    position: absolute;
+    top: 750px; left: 500px;
+}
+
+#pm{
+    position: absolute;
+    top: 670px; left: 580px;
+}
+
+#np{
+    position: absolute;
+    top: 750px; left: 580px;
+}
+
+#sm{
+    position: absolute;
+    top: 670px; left: 660px;
+}
+
+#pu{
+    position: absolute;
+    top: 750px; left: 660px;
+}
+
+#eu{
+    position: absolute;
+    top: 670px; left: 740px;
+}
+
+#am{
+    position: absolute;
+    top: 750px; left: 740px;
+}
+
+#gd{
+    position: absolute;
+    top: 670px; left: 820px;
+}
+
+#cm{
+    position: absolute;
+    top: 750px; left: 820px;
+}
+
+#tb{
+    position: absolute;
+    top: 670px; left: 900px;
+}
+
+#bk{
+    position: absolute;
+    top: 750px; left: 900px;
+}
+
+#dy{
+    position: absolute;
+    top: 670px; left: 980px;
+}
+
+#cf{
+    position: absolute;
+    top: 750px; left: 980px;
+}
+
+#ho{
+    position: absolute;
+    top: 670px; left: 1060px;
+}
+
+#es{
+    position: absolute;
+    top: 750px; left: 1060px;
+}
+
+#er{
+    position: absolute;
+    top: 670px; left: 1140px;
+}
+
+#fm{
+    position: absolute;
+    top: 750px; left: 1140px;
+}
+
+#tm{
+    position: absolute;
+    top: 670px; left: 1220px;
+}
+
+#md{
+    position: absolute;
+    top: 750px; left: 1220px;
+}
+
+#yb{
+    position: absolute;
+    top: 670px; left: 1300px;
+}
+
+#no{
+    position: absolute;
+    top: 750px; left: 1300px;
+}
+
+
